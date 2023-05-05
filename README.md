@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GiovannaGiulis
+- 👋 Hi, I’m @ElenaGiuli aka @DevOpsLifestyleClub
 - 👀 I’m interested in TechManagement, DevOps, SRE
 - 🌱 I’m currently learning SRE
 - 💞️ I’m looking to collaborate on SRE Gamification
